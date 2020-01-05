@@ -1,0 +1,4 @@
+2019-02-15T11:39:19.888Z Error: EACCES: permission denied, write
+2019-02-15T11:39:19.888Z     at Object.info (/snap/heroku/3709/node_modules/cli-ux/lib/index.js:50:24)
+2019-02-15T11:39:19.888Z     at Object.log (/snap/heroku/3709/node_modules/cli-ux/lib/index.js:53:14)
+2019-02-15T11:39:19.888Z     at UpdateCommand.debounce (/snap/heroku/3709/node_modules/@oclif/plugin-update/lib/commands/update.js:148:40)

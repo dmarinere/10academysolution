@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-calculator_gnome-calculator.desktop" open-window-count="0" score="1" last-seen="1550230155"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="3" last-seen="1550230824"/>
+    <application id="gnome-terminal.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="82" last-seen="1550231800"/>
+    <application id="update-manager.desktop" open-window-count="0" score="1" last-seen="1550231179"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="306782870" last-seen="1550230113"/>
+    <application id="firefox.desktop" open-window-count="1" score="126" last-seen="1550231836"/>
+  </context>
+</application-state>

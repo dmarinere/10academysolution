@@ -1,0 +1,81 @@
+{
+  "Version": "18.04",
+  "OEM": {
+    "Vendor": "Hewlett-Packard",
+    "Product": "HP ProBook 4540s"
+  },
+  "BIOS": {
+    "Vendor": "Hewlett-Packard",
+    "Version": "68IRR Ver. F.41"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "58",
+    "Stepping": "9",
+    "Name": "Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "0166"
+    }
+  ],
+  "RAM": 3.9,
+  "Disks": [
+    500.1
+  ],
+  "Partitions": [
+    147.3
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx194mm",
+      "Resolution": "1366x768",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": true,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "en_NG",
+  "Timezone": "Africa/Lagos",
+  "Install": {
+    "Media": "Ubuntu 18.04.2 LTS \"Bionic Beaver\" - Release amd64 (20190210)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "resize_use_free",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "1": "language",
+      "8": "console_setup",
+      "14": "console_setup",
+      "50": "console_setup",
+      "53": "console_setup",
+      "62": "wireless",
+      "69": "prepare",
+      "374": "partman",
+      "400": "partman",
+      "434": "start_install",
+      "1338": "timezone",
+      "1348": "usersetup",
+      "1416": "user_done",
+      "1869": "done"
+    }
+  }
+}

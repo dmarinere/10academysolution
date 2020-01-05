@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-JD26"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-JD26');</script>
+  <!-- End Google Tag Manager -->
+
+    <title>Heroku | Sign up</title>
+      <meta name="description" content="Sign up for a free Heroku developer account and get started building your apps on Heroku.">
+
+      <meta name="google-site-verification" content="V8eEvIkb6RQqJca9Wf-o9baurAQMe54VKxd06IeaFeg" />
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="IdJ9w58h1lg9es4pqoqy6W1pJMNGun6FSdroVkSKBQVCddIwFSsLwH91bE2mgSk4kkwnjcA1QKxxXaL/abmx8w==" />
+
+      <link href="https://signup.heroku.com" rel="canonical">
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.herokucdn.com/favicon.ico" />
+
+
+    <meta name='viewport' content='width=device-width, initial-scale=1, shrink-to-fit=no'>
+
+    <link rel="stylesheet" media="all" href="/assets/application-af54ca97e1f2af747909059ad659c799a4e5083fbd410851750a2a31bb402e49.css" />
+    <script src="/assets/application-582a73858044afa169fb012af37e2374871114f1806c02e3fca626616c02a7d2.js"></script>
+  </head>
+
+  <body>
+    <div id="heroku-cookie-banner" class="dark-mode"></div>
+
+    <div class='wrapper'>
+      
+<div class="signup-page signup-page-default">
+  <div class="header-main">
+    <a class="header-logo" href="https://www.heroku.com/home"></a>
+
+    <h2>Sign up for free and experience Heroku today</h2>
+
+    <div class="header-login">
+      <span>Already have an account?&nbsp;</span>
+      <a class="btn btn-sm btn-alt" href="https://id.heroku.com/login">Log in</a>
+    </div>
+  </div>
+  <div class="signup-content">
+    <div class="benefits page-body">
+      <h3><span class="icon hk-icon-sm hk-icon-user"></span> Free account</h3>
+      <p>Create apps, connect databases and add-on services, and collaborate on your apps, for free.</p>
+
+      <hr />
+
+      <h3><span class="icon hk-icon-sm hk-icon-app"></span> Your app platform</h3>
+      <p>A platform for apps, with app management &amp; instant scaling, for development and production.</p>
+
+      <hr />
+
+      <h3><span class="icon hk-icon-sm hk-icon-deploy"></span> Deploy now</h3>
+      <p>Go from code to running app in minutes. Deploy, scale, and deliver your app to the world.</p>
+    </div>
+
+    <div class="signup page-sidebar">
+      
+      <p id="fill-all-fields" class="alert alert-error" style="display:none"></p>
+      <form class="signup-form initial-signup-form gtm_signup_register_form" action="/account" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="qMLibDGFnFND+UT688XvkUjCbw9cV0EBv1rtTENJJGbt1PEQKb1twYdd7reKJiCA+e/izO7AjY72xkSC73afQg==" />
+  <input type="hidden" name="campaign_id" value="70130000001x9MrAAI" />
+  <input type="hidden" name="slug" value="default" />
+
+
+  <div class="input-group">
+    <label for="first_name">
+      First name
+      <sup class="required" title="Required">*</sup>
+</label>    <input type="text" name="first_name" id="first_name" class="required" autocapitalize="off" autofocus="autofocus" placeholder="First name" />
+  </div>
+
+    <div class="input-group">
+      <label for="last_name">
+        Last name
+        <sup class="required" title="Required">*</sup>
+</label>      <input type="text" name="last_name" id="last_name" class="required" autocapitalize="off" placeholder="Last name" />
+    </div>
+
+  <div class="input-group">
+    <label for="email">
+      Email address
+      <sup class="required" title="Required">*</sup>
+</label>    <input type="email" name="email" id="email" class="required" autocapitalize="off" placeholder="Email address" />
+  </div>
+
+  <div class="input-group">
+    <label for="company">
+      Company name
+</label>    <input type="text" name="company" id="company" autocapitalize="off" placeholder="Company name" />
+  </div>
+
+  <div class="input-group">
+    <label for="role">
+      Role
+      <sup class="required" title="Required">*</sup>
+</label>    <div class="role-selector">
+      <select name="role" id="role" placeholder="Role" class="required"><option value="">Role</option><option value="agency_partner_developer">Agency / Partner Developer</option>
+<option value="hobbyist">Hobbyist</option>
+<option value="professional_developer">Professional Developer</option>
+<option value="student">Student</option>
+<option value="technology_business_manager">Technology / Business Manager</option>
+<option value="other">Other</option></select>
+    </div>
+  </div>
+
+  <div class="input-group">
+    <div class="country-selector">
+      <label for="self_declared_country">
+        Country
+        <sup class="required" title="Required">*</sup>
+</label>      <select name="self_declared_country" id="self_declared_country" class="required" placeholder="Country"><option value="">Country</option><option data-newsletter-checkbox="hidden" value="United States">United States</option>
+<option data-newsletter-checkbox="hidden" value="Afghanistan">Afghanistan</option>
+<option data-newsletter-checkbox="unchecked" value="Aland Islands">Aland Islands</option>
+<option data-newsletter-checkbox="hidden" value="Albania">Albania</option>
+<option data-newsletter-checkbox="hidden" value="Algeria">Algeria</option>
+<option data-newsletter-checkbox="unchecked" value="Andorra">Andorra</option>
+<option data-newsletter-checkbox="hidden" value="Angola">Angola</option>
+<option data-newsletter-checkbox="hidden" value="Anguilla">Anguilla</option>
+<option data-newsletter-checkbox="hidden" value="Antarctica">Antarctica</option>
+<option data-newsletter-checkbox="hidden" value="Antigua and Barbuda">Antigua and Barbuda</option>
+<option data-newsletter-checkbox="hidden" value="Argentina">Argentina</option>
+<option data-newsletter-checkbox="hidden" value="Armenia">Armenia</option>
+<option data-newsletter-checkbox="hidden" value="Aruba">Aruba</option>
+<option data-newsletter-checkbox="unchecked" value="Australia">Australia</option>
+<option data-newsletter-checkbox="unchecked" value="Austria">Austria</option>
+<option data-newsletter-checkbox="hidden" value="Azerbaijan">Azerbaijan</option>
+<option data-newsletter-checkbox="hidden" value="Bahamas">Bahamas</option>
+<option data-newsletter-checkbox="hidden" value="Bahrain">Bahrain</option>
+<option data-newsletter-checkbox="hidden" value="Bangladesh">Bangladesh</option>
+<option data-newsletter-checkbox="hidden" value="Barbados">Barbados</option>
+<option data-newsletter-checkbox="hidden" value="Belarus">Belarus</option>
+<option data-newsletter-checkbox="unchecked" value="Belgium">Belgium</option>
+<option data-newsletter-checkbox="hidden" value="Belize">Belize</option>
+<option data-newsletter-checkbox="hidden" value="Benin">Benin</option>
+<option data-newsletter-checkbox="hidden" value="Bermuda">Bermuda</option>
+<option data-newsletter-checkbox="hidden" value="Bhutan">Bhutan</option>
+<option data-newsletter-checkbox="hidden" value="Bolivia, Plurinational State of">Bolivia, Plurinational State of</option>
+<option data-newsletter-checkbox="checked" value="Bonaire, Sint Eustatius and Saba">Bonaire, Sint Eustatius and Saba</option>
+<option data-newsletter-checkbox="hidden" value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+<option data-newsletter-checkbox="hidden" value="Botswana">Botswana</option>
+<option data-newsletter-checkbox="hidden" value="Bouvet Island">Bouvet Island</option>
+<option data-newsletter-checkbox="hidden" value="Brazil">Brazil</option>
+<option data-newsletter-checkbox="unchecked" value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+<option data-newsletter-checkbox="hidden" value="Brunei Darussalam">Brunei Darussalam</option>
+<option data-newsletter-checkbox="unchecked" value="Bulgaria">Bulgaria</option>
+<option data-newsletter-checkbox="hidden" value="Burkina Faso">Burkina Faso</option>
+<option data-newsletter-checkbox="hidden" value="Burundi">Burundi</option>
+<option data-newsletter-checkbox="hidden" value="Cambodia">Cambodia</option>
+<option data-newsletter-checkbox="hidden" value="Cameroon">Cameroon</option>
+<option data-newsletter-checkbox="unchecked" value="Canada">Canada</option>
+<option data-newsletter-checkbox="hidden" value="Cape Verde">Cape Verde</option>
+<option data-newsletter-checkbox="hidden" value="Cayman Islands">Cayman Islands</option>
+<option data-newsletter-checkbox="hidden" value="Central African Republic">Central African Republic</option>
+<option data-newsletter-checkbox="hidden" value="Chad">Chad</option>
+<option data-newsletter-checkbox="hidden" value="Chile">Chile</option>
+<option data-newsletter-checkbox="unchecked" value="China*">China*</option>
+<option data-newsletter-checkbox="checked" value="Chinese Taipei">Chinese Taipei</option>
+<option data-newsletter-checkbox="hidden" value="Christmas Island">Christmas Island</option>
+<option data-newsletter-checkbox="hidden" value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+<option data-newsletter-checkbox="unchecked" value="Colombia">Colombia</option>
+<option data-newsletter-checkbox="hidden" value="Comoros">Comoros</option>
+<option data-newsletter-checkbox="hidden" value="Congo, the Democratic Republic of the">Congo, the Democratic Republic of the</option>
+<option data-newsletter-checkbox="hidden" value="Cook Islands">Cook Islands</option>
+<option data-newsletter-checkbox="hidden" value="Costa Rica">Costa Rica</option>
+<option data-newsletter-checkbox="hidden" value="Cote d&#39;Ivoire">Cote d&#39;Ivoire</option>
+<option data-newsletter-checkbox="unchecked" value="Crimea">Crimea</option>
+<option data-newsletter-checkbox="unchecked" value="Croatia">Croatia</option>
+<option data-newsletter-checkbox="checked" value="Cuba">Cuba</option>
+<option data-newsletter-checkbox="checked" value="Cura√ßao">Cura√ßao</option>
+<option data-newsletter-checkbox="unchecked" value="Cyprus">Cyprus</option>
+<option data-newsletter-checkbox="unchecked" value="Czech Republic">Czech Republic</option>
+<option data-newsletter-checkbox="unchecked" value="Denmark">Denmark</option>
+<option data-newsletter-checkbox="hidden" value="Djibouti">Djibouti</option>
+<option data-newsletter-checkbox="hidden" value="Dominica">Dominica</option>
+<option data-newsletter-checkbox="hidden" value="Dominican Republic">Dominican Republic</option>
+<option data-newsletter-checkbox="hidden" value="Ecuador">Ecuador</option>
+<option data-newsletter-checkbox="hidden" value="Egypt">Egypt</option>
+<option data-newsletter-checkbox="hidden" value="El Salvador">El Salvador</option>
+<option data-newsletter-checkbox="hidden" value="Equatorial Guinea">Equatorial Guinea</option>
+<option data-newsletter-checkbox="hidden" value="Eritrea">Eritrea</option>
+<option data-newsletter-checkbox="unchecked" value="Estonia">Estonia</option>
+<option data-newsletter-checkbox="hidden" value="Ethiopia">Ethiopia</option>
+<option data-newsletter-checkbox="unchecked" value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option>
+<option data-newsletter-checkbox="unchecked" value="Faroe Islands">Faroe Islands</option>
+<option data-newsletter-checkbox="hidden" value="Fiji">Fiji</option>
+<option data-newsletter-checkbox="unchecked" value="Finland">Finland</option>
+<option data-newsletter-checkbox="unchecked" value="France">France</option>
+<option data-newsletter-checkbox="hidden" value="French Guiana">French Guiana</option>
+<option data-newsletter-checkbox="unchecked" value="French Polynesia">French Polynesia</option>
+<option data-newsletter-checkbox="unchecked" value="French Southern Territories">French Southern Territories</option>
+<option data-newsletter-checkbox="hidden" value="Gabon">Gabon</option>
+<option data-newsletter-checkbox="hidden" value="Gambia">Gambia</option>
+<option data-newsletter-checkbox="hidden" value="Georgia">Georgia</option>
+<option data-newsletter-checkbox="unchecked" value="Germany">Germany</option>
+<option data-newsletter-checkbox="hidden" value="Ghana">Ghana</option>
+<option data-newsletter-checkbox="unchecked" value="Gibraltar">Gibraltar</option>
+<option data-newsletter-checkbox="unchecked" value="Greece">Greece</option>
+<option data-newsletter-checkbox="unchecked" value="Greenland">Greenland</option>
+<option data-newsletter-checkbox="hidden" value="Grenada">Grenada</option>
+<option data-newsletter-checkbox="unchecked" value="Guadeloupe">Guadeloupe</option>
+<option data-newsletter-checkbox="hidden" value="Guatemala">Guatemala</option>
+<option data-newsletter-checkbox="unchecked" value="Guernsey">Guernsey</option>
+<option data-newsletter-checkbox="hidden" value="Guinea">Guinea</option>
+<option data-newsletter-checkbox="hidden" value="Guinea-Bissau">Guinea-Bissau</option>
+<option data-newsletter-checkbox="hidden" value="Guyana">Guyana</option>
+<option data-newsletter-checkbox="hidden" value="Haiti">Haiti</option>
+<option data-newsletter-checkbox="hidden" value="Heard Island and McDonald Islands">Heard Island and McDonald Islands</option>
+<option data-newsletter-checkbox="unchecked" value="Holy See (Vatican City State)">Holy See (Vatican City State)</option>
+<option data-newsletter-checkbox="hidden" value="Honduras">Honduras</option>
+<option data-newsletter-checkbox="unchecked" value="Hong Kong">Hong Kong</option>
+<option data-newsletter-checkbox="unchecked" value="Hungary">Hungary</option>
+<option data-newsletter-checkbox="unchecked" value="Iceland">Iceland</option>
+<option data-newsletter-checkbox="hidden" value="India">India</option>
+<option data-newsletter-checkbox="hidden" value="Indonesia">Indonesia</option>
+<option data-newsletter-checkbox="checked" value="Iran, Islamic Republic of">Iran, Islamic Republic of</option>
+<option data-newsletter-checkbox="hidden" value="Iraq">Iraq</option>
+<option data-newsletter-checkbox="unchecked" value="Ireland">Ireland</option>
+<option data-newsletter-checkbox="unchecked" value="Isle of Man">Isle of Man</option>
+<option data-newsletter-checkbox="unchecked" value="Israel">Israel</option>
+<option data-newsletter-checkbox="unchecked" value="Italy">Italy</option>
+<option data-newsletter-checkbox="hidden" value="Jamaica">Jamaica</option>
+<option data-newsletter-checkbox="checked" value="Japan">Japan</option>
+<option data-newsletter-checkbox="unchecked" value="Jersey">Jersey</option>
+<option data-newsletter-checkbox="hidden" value="Jordan">Jordan</option>
+<option data-newsletter-checkbox="hidden" value="Kazakhstan">Kazakhstan</option>
+<option data-newsletter-checkbox="hidden" value="Kenya">Kenya</option>
+<option data-newsletter-checkbox="hidden" value="Kiribati">Kiribati</option>
+<option data-newsletter-checkbox="checked" value="Korea, Democratic People‚Äôs Republic of">Korea, Democratic People‚Äôs Republic of</option>
+<option data-newsletter-checkbox="unchecked" value="Korea, Republic of">Korea, Republic of</option>
+<option data-newsletter-checkbox="hidden" value="Kuwait">Kuwait</option>
+<option data-newsletter-checkbox="hidden" value="Kyrgyzstan">Kyrgyzstan</option>
+<option data-newsletter-checkbox="hidden" value="Lao People‚Äôs Democratic Republic">Lao People‚Äôs Democratic Republic</option>
+<option data-newsletter-checkbox="unchecked" value="Latvia">Latvia</option>
+<option data-newsletter-checkbox="hidden" value="Lebanon">Lebanon</option>
+<option data-newsletter-checkbox="hidden" value="Lesotho">Lesotho</option>
+<option data-newsletter-checkbox="hidden" value="Liberia">Liberia</option>
+<option data-newsletter-checkbox="hidden" value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option>
+<option data-newsletter-checkbox="unchecked" value="Liechtenstein">Liechtenstein</option>
+<option data-newsletter-checkbox="unchecked" value="Lithuania">Lithuania</option>
+<option data-newsletter-checkbox="unchecked" value="Luxembourg">Luxembourg</option>
+<option data-newsletter-checkbox="hidden" value="Macao">Macao</option>
+<option data-newsletter-checkbox="hidden" value="Macedonia, the former Yugoslav Republic of">Macedonia, the former Yugoslav Republic of</option>
+<option data-newsletter-checkbox="hidden" value="Madagascar">Madagascar</option>
+<option data-newsletter-checkbox="hidden" value="Malawi">Malawi</option>
+<option data-newsletter-checkbox="hidden" value="Malaysia">Malaysia</option>
+<option data-newsletter-checkbox="hidden" value="Maldives">Maldives</option>
+<option data-newsletter-checkbox="hidden" value="Mali">Mali</option>
+<option data-newsletter-checkbox="unchecked" value="Malta">Malta</option>
+<option data-newsletter-checkbox="unchecked" value="Martinique">Martinique</option>
+<option data-newsletter-checkbox="hidden" value="Mauritania">Mauritania</option>
+<option data-newsletter-checkbox="hidden" value="Mauritius">Mauritius</option>
+<option data-newsletter-checkbox="unchecked" value="Mayotte">Mayotte</option>
+<option data-newsletter-checkbox="hidden" value="Mexico">Mexico</option>
+<option data-newsletter-checkbox="hidden" value="Moldova, Republic of">Moldova, Republic of</option>
+<option data-newsletter-checkbox="unchecked" value="Monaco">Monaco</option>
+<option data-newsletter-checkbox="hidden" value="Mongolia">Mongolia</option>
+<option data-newsletter-checkbox="hidden" value="Montenegro">Montenegro</option>
+<option data-newsletter-checkbox="hidden" value="Montserrat">Montserrat</option>
+<option data-newsletter-checkbox="unchecked" value="Morocco">Morocco</option>
+<option data-newsletter-checkbox="hidden" value="Mozambique">Mozambique</option>
+<option data-newsletter-checkbox="hidden" value="Myanmar">Myanmar</option>
+<option data-newsletter-checkbox="hidden" value="Namibia">Namibia</option>
+<option data-newsletter-checkbox="hidden" value="Nauru">Nauru</option>
+<option data-newsletter-checkbox="hidden" value="Nepal">Nepal</option>
+<option data-newsletter-checkbox="unchecked" value="Netherlands">Netherlands</option>
+<option data-newsletter-checkbox="unchecked" value="New Caledonia">New Caledonia</option>
+<option data-newsletter-checkbox="unchecked" value="New Zealand">New Zealand</option>
+<option data-newsletter-checkbox="hidden" value="Nicaragua">Nicaragua</option>
+<option data-newsletter-checkbox="hidden" value="Niger">Niger</option>
+<option data-newsletter-checkbox="hidden" value="Nigeria">Nigeria</option>
+<option data-newsletter-checkbox="hidden" value="Niue">Niue</option>
+<option data-newsletter-checkbox="hidden" value="Norfolk Island">Norfolk Island</option>
+<option data-newsletter-checkbox="unchecked" value="Norway">Norway</option>
+<option data-newsletter-checkbox="hidden" value="Oman">Oman</option>
+<option data-newsletter-checkbox="hidden" value="Pakistan">Pakistan</option>
+<option data-newsletter-checkbox="hidden" value="Palestinian Territory, Occupied">Palestinian Territory, Occupied</option>
+<option data-newsletter-checkbox="unchecked" value="Panama">Panama</option>
+<option data-newsletter-checkbox="hidden" value="Papua New Guinea">Papua New Guinea</option>
+<option data-newsletter-checkbox="hidden" value="Paraguay">Paraguay</option>
+<option data-newsletter-checkbox="hidden" value="Peru">Peru</option>
+<option data-newsletter-checkbox="hidden" value="Philippines">Philippines</option>
+<option data-newsletter-checkbox="hidden" value="Pitcairn">Pitcairn</option>
+<option data-newsletter-checkbox="unchecked" value="Poland">Poland</option>
+<option data-newsletter-checkbox="unchecked" value="Portugal">Portugal</option>
+<option data-newsletter-checkbox="hidden" value="Qatar">Qatar</option>
+<option data-newsletter-checkbox="unchecked" value="Reunion">Reunion</option>
+<option data-newsletter-checkbox="unchecked" value="Romania">Romania</option>
+<option data-newsletter-checkbox="unchecked" value="Russian Federation">Russian Federation</option>
+<option data-newsletter-checkbox="hidden" value="Rwanda">Rwanda</option>
+<option data-newsletter-checkbox="hidden" value="Saint Barth√©lemy">Saint Barth√©lemy</option>
+<option data-newsletter-checkbox="unchecked" value="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</option>
+<option data-newsletter-checkbox="hidden" value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+<option data-newsletter-checkbox="hidden" value="Saint Lucia">Saint Lucia</option>
+<option data-newsletter-checkbox="unchecked" value="Saint Martin (French part)">Saint Martin (French part)</option>
+<option data-newsletter-checkbox="unchecked" value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option>
+<option data-newsletter-checkbox="hidden" value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+<option data-newsletter-checkbox="hidden" value="Samoa">Samoa</option>
+<option data-newsletter-checkbox="unchecked" value="San Marino">San Marino</option>
+<option data-newsletter-checkbox="hidden" value="Sao Tome and Principe">Sao Tome and Principe</option>
+<option data-newsletter-checkbox="hidden" value="Saudi Arabia">Saudi Arabia</option>
+<option data-newsletter-checkbox="hidden" value="Senegal">Senegal</option>
+<option data-newsletter-checkbox="unchecked" value="Serbia">Serbia</option>
+<option data-newsletter-checkbox="hidden" value="Seychelles">Seychelles</option>
+<option data-newsletter-checkbox="hidden" value="Sierra Leone">Sierra Leone</option>
+<option data-newsletter-checkbox="unchecked" value="Singapore">Singapore</option>
+<option data-newsletter-checkbox="checked" value="Sint Maarten (Dutch part)">Sint Maarten (Dutch part)</option>
+<option data-newsletter-checkbox="unchecked" value="Slovakia">Slovakia</option>
+<option data-newsletter-checkbox="unchecked" value="Slovenia">Slovenia</option>
+<option data-newsletter-checkbox="hidden" value="Solomon Islands">Solomon Islands</option>
+<option data-newsletter-checkbox="hidden" value="Somalia">Somalia</option>
+<option data-newsletter-checkbox="hidden" value="South Africa">South Africa</option>
+<option data-newsletter-checkbox="unchecked" value="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</option>
+<option data-newsletter-checkbox="hidden" value="South Sudan">South Sudan</option>
+<option data-newsletter-checkbox="unchecked" value="Spain">Spain</option>
+<option data-newsletter-checkbox="hidden" value="Sri Lanka">Sri Lanka</option>
+<option data-newsletter-checkbox="checked" value="Sudan">Sudan</option>
+<option data-newsletter-checkbox="hidden" value="Suriname">Suriname</option>
+<option data-newsletter-checkbox="unchecked" value="Svalbard and Jan Mayen">Svalbard and Jan Mayen</option>
+<option data-newsletter-checkbox="hidden" value="Swaziland">Swaziland</option>
+<option data-newsletter-checkbox="unchecked" value="Sweden">Sweden</option>
+<option data-newsletter-checkbox="unchecked" value="Switzerland">Switzerland</option>
+<option data-newsletter-checkbox="checked" value="Syrian Arab Republic">Syrian Arab Republic</option>
+<option data-newsletter-checkbox="hidden" value="Taiwan">Taiwan</option>
+<option data-newsletter-checkbox="hidden" value="Tajikistan">Tajikistan</option>
+<option data-newsletter-checkbox="hidden" value="Tanzania, United Republic of">Tanzania, United Republic of</option>
+<option data-newsletter-checkbox="hidden" value="Thailand">Thailand</option>
+<option data-newsletter-checkbox="hidden" value="Timor-Leste">Timor-Leste</option>
+<option data-newsletter-checkbox="hidden" value="Togo">Togo</option>
+<option data-newsletter-checkbox="hidden" value="Tokelau">Tokelau</option>
+<option data-newsletter-checkbox="hidden" value="Tonga">Tonga</option>
+<option data-newsletter-checkbox="hidden" value="Trinidad and Tobago">Trinidad and Tobago</option>
+<option data-newsletter-checkbox="hidden" value="Tunisia">Tunisia</option>
+<option data-newsletter-checkbox="hidden" value="Turkey">Turkey</option>
+<option data-newsletter-checkbox="hidden" value="Turkmenistan">Turkmenistan</option>
+<option data-newsletter-checkbox="hidden" value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+<option data-newsletter-checkbox="hidden" value="Tuvalu">Tuvalu</option>
+<option data-newsletter-checkbox="hidden" value="Uganda">Uganda</option>
+<option data-newsletter-checkbox="unchecked" value="Ukraine">Ukraine</option>
+<option data-newsletter-checkbox="hidden" value="United Arab Emirates">United Arab Emirates</option>
+<option data-newsletter-checkbox="unchecked" value="United Kingdom">United Kingdom</option>
+<option data-newsletter-checkbox="hidden" value="Uruguay">Uruguay</option>
+<option data-newsletter-checkbox="hidden" value="Uzbekistan">Uzbekistan</option>
+<option data-newsletter-checkbox="hidden" value="Vanuatu">Vanuatu</option>
+<option data-newsletter-checkbox="hidden" value="Venezuela, Bolivarian Republic of">Venezuela, Bolivarian Republic of</option>
+<option data-newsletter-checkbox="hidden" value="Vietnam">Vietnam</option>
+<option data-newsletter-checkbox="unchecked" value="Virgin Islands, British">Virgin Islands, British</option>
+<option data-newsletter-checkbox="hidden" value="Wallis and Futuna">Wallis and Futuna</option>
+<option data-newsletter-checkbox="hidden" value="Western Sahara">Western Sahara</option>
+<option data-newsletter-checkbox="hidden" value="Yemen">Yemen</option>
+<option data-newsletter-checkbox="hidden" value="Zambia">Zambia</option>
+<option data-newsletter-checkbox="hidden" value="Zimbabwe">Zimbabwe</option></select>
+    </div>
+  </div>
+
+  <div class="input-group">
+      <label for="main_programming_language">
+        Primary development language
+        <sup class="required" title="Required">*</sup>
+</label>      <div class="lang-selector">
+        <select name="main_programming_language" id="main_programming_language" placeholder="Primary development language" class="required"><option value="">Select a language</option><option value="ruby">Ruby</option>
+<option value="php">PHP</option>
+<option value="python">Python</option>
+<option value="node">Node.js</option>
+<option value="java">Java</option>
+<option value="clojure">Clojure</option>
+<option value="scala">Scala</option>
+<option value="go">Go</option>
+<option value="other">I use another language</option>
+<option value="none">I&#39;m not a developer</option></select>
+      </div>
+  </div>
+
+    <div class="input-group captcha">
+      <script type="text/javascript">
+        var captchaCallback = function() {
+          $('textarea#g-recaptcha-response').parents('form').trigger('inputsChanged');
+        };
+        var renderCaptcha = function() {
+          grecaptcha.render('g-recaptcha', {
+            'sitekey' : '6LctQg4UAAAAAFWvn4zhyn7XymfcTN2sl5vZ9JTb',
+            'callback': captchaCallback
+          });
+        };
+      </script>
+      <div id="g-recaptcha"></div>
+      <script src="https://www.google.com/recaptcha/api.js?onload=renderCaptcha&render=explicit&hl=en" async defer></script>
+    </div>
+
+  <noscript class="noscript">
+  <p>We need you to enable JavaScript for signing up. If this is an issue for you, please let us know at <a href="mailto:feedback@heroku.com">feedback@heroku.com</a></p>
+</noscript>
+
+
+  <div class="input-group">
+    <input type="submit" name="commit" value="Create Free Account" class="btn btn-alt full-width" data-disable-with="Create Free Account" />
+  </div>
+
+  <p class="privacy tos">
+    Signing up signifies that you have read and agree to the <a target="_blank" href="https://www.heroku.com/policy/salesforce-heroku-msa">Terms of Service</a> <span class="japan-only" style="display:none">, the <a target="_blank" href="http://www.salesforce.com/jp/company/personalinfo.jsp">Salesforce Japan Privacy Statement</a></span> and our <a target="_blank" href="https://www.salesforce.com/company/privacy/">Privacy Policy</a>.
+  </p>
+</form>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+    <script type="text/javascript">
+      I18n.defaultLocale = "en";
+      I18n.locale = "en";
+    </script>
+  </body>
+</html>
+√zYË‘           \f§H@%ç           :https://signup.heroku.com/ strongly-framed 1 security-info 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 request-method GET response-head HTTP/1.1 200 OK
+Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Etag: W/"b0e39492c8a8ac572427c5ff39a6fd10"
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31556952; includeSubDomains; preload
+Via: 1.1 spaces-router (4e32358ce5ac)
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: ca7e3434-fc6c-a955-4358-d5033e3198c0
+X-Runtime: 0.030590
+X-Xss-Protection: 1; mode=block
+Date: Fri, 15 Feb 2019 11:34:15 GMT
+ original-response-headers Cache-Control: max-age=0, private, must-revalidate
+Content-Type: text/html; charset=utf-8
+Etag: W/"b0e39492c8a8ac572427c5ff39a6fd10"
+Referrer-Policy: strict-origin-when-cross-origin
+Set-Cookie: language=en; path=/; secure
+Set-Cookie: _signup_session=Umo5a3hNMEdRQ2JlUlNHc3NTWHFlMEQ1TDhiNTBVLzJYZStESDhab0RuS29pRytKMEd3MHZ5eVpkWUUrUHFXREhldm5qeG94MHY5ZExHS3E5ZTgzSC9CcHRBODlueFBkOHFobTlTNGR3T3AwOWhqZXBHeGxqZUFUZlRzT3M5QktwemVlOGFBQTdTVVF1ZmhpaVF5V1BEZ2hPN3VSdjJwblB5SHdYNXl6aFRsMUZjNFByQWQ1MGw1cDMyaEQ4bGJ2MkgzWUo5S0VDbVhRbFZOQkpxVWJtNlJGUDlrQmIrcXo2YkROOTBsNjczZFY3L2JDNVJjTVY3Snl4RXpyLzZ4YklkV2pydlljQnJYdVE5MzlNOGR6TEEvazI2ZkFLRVJpYUVBREllR1VFa3M9LS1OUGZLcFg4NTNRSHJCR1FIdGE3MzJnPT0%3D--7df674acfbdbb99c84b74bf5c1ed8762deb1eab2; path=/; secure; HttpOnly
+Strict-Transport-Security: max-age=31556952; includeSubDomains; preload
+Via: 1.1 spaces-router (4e32358ce5ac)
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+X-Request-Id: ca7e3434-fc6c-a955-4358-d5033e3198c0
+X-Runtime: 0.030590
+X-Xss-Protection: 1; mode=block
+Date: Fri, 15 Feb 2019 11:34:15 GMT
+Transfer-Encoding: chunked
+ uncompressed-len 0 predictor::resource-count 34 predictor::https://signup.heroku.com/assets/application-af54ca97e1f2af747909059ad659c799a4e5083fbd410851750a2a31bb402e49.css 1,1,0,4096 predictor::https://signup.heroku.com/assets/application-582a73858044afa169fb012af37e2374871114f1806c02e3fca626616c02a7d2.js 1,1,0,4096 predictor::https://www.googletagmanager.com/gtm.js?id=GTM-JD26 1,1,0,4096 predictor::https://www.google.com/recaptcha/api.js?onload=renderCaptcha&render=explicit&hl=en 1,1,0,4096 predictor::https://signup.heroku.com/assets/header-illustration-3a4c23d829b8e7030dc9083774e0758b3728928904767e24784d840b40b98c78.png 1,1,0,4096 predictor::https://signup.heroku.com/assets/logo-horizontal-30c94876b673967b26d0e4a698748b3a157e699845045b3b64fe69706c794bb9.png 1,1,0,4096 predictor::https://signup.heroku.com/assets/page-illustration-11400c2a5109317ad7e99571ba2a42bc55522ffa8ea6f9dcdff99737ab6149ac.png 1,1,0,4096 predictor::https://www.herokucdn.com/fonts/bentonsans-book.woff 1,1,0,4096 predictor::https://www.herokucdn.com/fonts/bentonsans-regular.woff 1,1,0,4096 predictor::https://signup.heroku.com/assets/hk-icon/hk-icon-003a2bbb62b0d1c85a920dbbc1b1989e6035f0ada326a3006e5a62fd48c33b26.woff 1,1,0,4096 predictor::https://www.gstatic.com/recaptcha/api2/v1549866690836/recaptcha__en.js 1,1,0,4096 predictor::https://www.herokucdn.com/fonts/bentonsans-medium.woff 1,1,0,4096 predictor::https://jambox.heroku.com/e?url=https%3A//signup.heroku.com/&fp=1550230450793-3sod9wsmylzwlo68kx8ra9&li=undefined&dtls[gtm_enabled]=true&ref=https%3A//vijaikumar.in/keeping-your-irccloud-client-always-connected-for-free-82db71b3cff3 1,1,0,4096 predictor::https://www.google-analytics.com/analytics.js 1,1,0,4096 predictor::https://pixel.mathtag.com/event/img?mt_id=849890&mt_adid=131453&v1=&v2=&v3=&s1=&s2=&s3=&gtmcb=1258878879 1,1,0,4096 predictor::https://www.googleadservices.com/pagead/conversion_async.js 1,1,0,4096 predictor::https://pixel.mathtag.com/event/js?mt_id=622288&mt_adid=131453&v1=&v2=&v3=&s1=&s2=&s3=&skipsync=13 1,1,0,4096 predictor::https://platform.twitter.com/oct.js 1,1,0,4096 predictor::https://bat.bing.com/action/0?ti=5116236&Ver=2 1,1,0,4096 predictor::https://analytics.twitter.com/i/adsct?txn_id=nuf3v&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0 1,1,0,4096 predictor::https://t.co/i/adsct?txn_id=nuf3v&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0 1,1,0,4096 predictor::https://www.facebook.com/tr?id=998836190199866&ev=PageView&noscript=1 1,1,0,4096 predictor::https://a.quora.com/qevents.js 1,1,0,4096 predictor::https://q.quora.com/_/ad/1ccc6f7511df4a33997bb1cdc82b573b/pixel?j=1&u=https%3A%2F%2Fsignup.heroku.com%2F&tag=ViewContent&ts=1550230457397 1,1,0,4096 predictor::https://www.google-analytics.com/plugins/ua/linkid.js 1,1,0,4096 predictor::https://googleads.g.doubleclick.net/pagead/viewthroughconversion/992316833/?random=1550230457687&cv=9&fst=1550230457687&num=1&guid=ON&resp=GooglemKTybQhCsO&u_h=768&u_w=1366&u_ah=741&u_aw=1299&u_cd=24&u_his=1&u_tz=60&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg241&sendb=1&frm=0&url=https%3A%2F%2Fsignup.heroku.com%2F&ref=https%3A%2F%2Fvijaikumar.in%2Fkeeping-your-irccloud-client-always-connected-for-free-82db71b3cff3&tiba=Heroku%20%7C%20Sign%20up&async=1&rfmt=3&fmt=4 1,1,0,4096 predictor::https://www.google-analytics.com/collect?v=1&_v=j73&a=1350569042&t=pageview&_s=1&dl=https%3A%2F%2Fsignup.heroku.com%2F&dr=https%3A%2F%2Fvijaikumar.in%2Fkeeping-your-irccloud-client-always-connected-for-free-82db71b3cff3&dp=%2F&ul=en-us&de=UTF-8&dt=Heroku%20%7C%20Sign%20up&sd=24-bit&sr=1366x768&vp=1287x639&je=0&_u=SCCAAEAj~&jid=&gjid=&cid=459136779.1550230427&tid=UA-39697570-1&_gid=2025471298.1550230427&gtm=2wg241JD26&cd1=NotLoggedIn&linkid=login&z=1337109306 1,1,0,4096 predictor::https://www.google-analytics.com/collect?v=1&_v=j73&a=1350569042&t=pageview&_s=1&dl=https%3A%2F%2Fsignup.heroku.com%2F&dr=https%3A%2F%2Fvijaikumar.in%2Fkeeping-your-irccloud-client-always-connected-for-free-82db71b3cff3&dp=%2F&ul=en-us&de=UTF-8&dt=Heroku%20%7C%20Sign%20up&sd=24-bit&sr=1366x768&vp=1287x639&je=0&_u=SCCACEAjB~&jid=&gjid=&cid=459136779.1550230427&tid=UA-39697570-31&_gid=2025471298.1550230427&gtm=2wg241JD26&cd1=NotLoggedIn&linkid=login&z=553376516 1,1,0,4096 predictor::https://www.google.com/pagead/1p-user-list/992316833/?random=1550230457687&cv=9&fst=1550228400000&num=1&guid=ON&u_h=768&u_w=1366&u_ah=741&u_aw=1299&u_cd=24&u_his=1&u_tz=60&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg241&sendb=1&frm=0&url=https%3A%2F%2Fsignup.heroku.com%2F&ref=https%3A%2F%2Fvijaikumar.in%2Fkeeping-your-irccloud-client-always-connected-for-free-82db71b3cff3&tiba=Heroku%20%7C%20Sign%20up&async=1&fmt=3&cdct=2&is_vtc=1&random=2286999657&resp=GooglemKTybQhCsO&rmt_tld=0&ipr=y 1,1,0,4096 predictor::https://www.google.com.ng/pagead/1p-user-list/992316833/?random=1550230457687&cv=9&fst=1550228400000&num=1&guid=ON&u_h=768&u_w=1366&u_ah=741&u_aw=1299&u_cd=24&u_his=1&u_tz=60&u_java=false&u_nplug=0&u_nmime=0&gtm=2wg241&sendb=1&frm=0&url=https%3A%2F%2Fsignup.heroku.com%2F&ref=https%3A%2F%2Fvijaikumar.in%2Fkeeping-your-irccloud-client-always-connected-for-free-82db71b3cff3&tiba=Heroku%20%7C%20Sign%20up&async=1&fmt=3&cdct=2&is_vtc=1&random=2286999657&resp=GooglemKTybQhCsO&rmt_tld=1&ipr=y 1,1,0,4096 predictor::https://analytics.twitter.com/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5cdw&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0&tpx_cb=twttr.conversion.loadPixels&tw_document_href=https%3A%2F%2Fsignup.heroku.com%2F 1,1,0,4096 predictor::https://t.co/i/adsct?p_id=Twitter&p_user_id=0&txn_id=l5cdw&tw_sale_amount=0&tw_order_quantity=0&tw_iframe_status=0 1,1,0,4096 predictor::https://pixel.mathtag.com/misc/img?mm_bnc&bcdv=0 1,1,0,4096 predictor::https://pixel.mathtag.com/misc/img?mm_bnc&bcdv=1 1,1,0,4096   n
