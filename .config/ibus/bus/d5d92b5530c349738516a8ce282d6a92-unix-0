@@ -1,3 +1,7 @@
-# This file is created by ibus-daemon, please do not modify it
-IBUS_ADDRESS=unix:abstract=/tmp/dbus-vcj0lQbw,guid=8d18a9fe57369e8b7f34a0715c66be09
-IBUS_DAEMON_PID=1470
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:abstract=/home/mahveotm/.cache/ibus/dbus-apsyN5MJ,guid=bcba26f2d28ef7881759e0e15ef368be
+IBUS_DAEMON_PID=3262

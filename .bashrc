@@ -115,3 +115,7 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+export PATH=$PATH:/home/mahveotm/bin
+
+source '/home/mahveotm/lib/azure-cli/az.completion'
